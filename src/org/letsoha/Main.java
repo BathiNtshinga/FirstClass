@@ -9,5 +9,8 @@ public class Main {
 
 	    //Adding the body line
 	    System.out.println("This is the body");
+
+	    //Goodby message
+	    System.out.println("Good bye, have a nice day");
     }
 }
